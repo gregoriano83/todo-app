@@ -1,0 +1,6 @@
+clean
+throw
+wash
+Fix a car
+buy a camera
+make pizza
