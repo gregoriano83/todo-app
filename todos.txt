@@ -1,7 +1,7 @@
-clean
-throw
-wash
+Clean the room
+Wash hair
 Fix a car
-buy a camera
-make pizza
+Buy a camera
+Make pizza
 Master Python
+
